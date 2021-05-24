@@ -1,0 +1,11 @@
+{
+  "name": "babel-ast-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:wuhaohao1234/babel-ast-study.git",
+  "author": "wuhaohao1234 <1611499758@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.14.3"
+  }
+}
